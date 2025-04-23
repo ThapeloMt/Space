@@ -1,0 +1,1 @@
+The repository contains COBOL PROJECTS I've worked on. Most importantly my Intra-day Project that took input  transactions file and run it to update a Master file while keeping history of the transactions in a History file.  Transaction that are 3 days or older are checked and deleted from the History file.
